@@ -1,0 +1,3234 @@
+    "files": {
+        "saves/PSX/SLPS-01995.sav": {
+            "hash": "9c6123abce745bf0d176e051114916b2",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/'70s%20Robot%20Anime%20Geppy-X/SLPS-01995/SLPS-01995-1.mcd"
+        },
+        "saves/PSX/SLUS-01300.sav": {
+            "hash": "b0561f2fa098d6781474c076956a282f",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/007%20Racing/SLUS-01300/SLUS-01300-1.mcd"
+        },
+        "saves/PSX/SLES-03355.sav": {
+            "hash": "2d1faa9256952ae068811c713ae4902e",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/007%20Racing%20(Europe)/SLES-03355/SLES-03355-1.mcd"
+        },
+        "saves/PSX/SLUS-01272.sav": {
+            "hash": "fef651aee6e13749154714955918d628",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/007%20The%20World%20is%20not%20Enough/SLUS-01272/SLUS-01272-1.mcd"
+        },
+        "saves/PSX/SLUS-00975.sav": {
+            "hash": "f172712a6b8529ddec32a54553ad63d3",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/007%20Tomorrow%20Never%20Dies/SLUS-00975/SLUS-00975-1.mcd"
+        },
+        "saves/PSX/SLUS-01152.sav": {
+            "hash": "4f9f660f17c6894ce5ab190d3282ee72",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/102%20Dalmatians/SLUS-01152/SLUS-01152-1.mcd"
+        },
+        "saves/PSX/SCUS-94508.sav": {
+            "hash": "547c1212117da315ce238f78c9a0df1b",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/2%20Xtreme/SCUS-94508/SCUS-94508-1.mcd"
+        },
+        "saves/PSX/SLES-03120.sav": {
+            "hash": "82370ece87f6bb6ad4ae419fb4bc602d",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/3,%202,%201,%20Smurf%21%20My%20First%20Racing%20Game%20(Europe)/SLES-03120/SLES-03120-1.mcd"
+        },
+        "saves/PSX/SLES-02017.sav": {
+            "hash": "f0934c02b6c13d33c93e4b113e64c60b",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/4x4%20World%20Trophy%20(Europe)/SLES-02017/SLES-02017-1.mcd"
+        },
+        "saves/PSX/SCUS-94288.sav": {
+            "hash": "e770f6ff7c94cde6e81b7585b456a5f3",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/A%20Bugs%20Life/SCUS-94288/SCUS-94288-1.mcd"
+        },
+        "saves/PSX/SLUS-00404.sav": {
+            "hash": "8c62a84d367347e0cce30494c8639feb",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Ace%20Combat%202/SLUS-00404/SLUS-00404-1.mcd"
+        },
+        "saves/PSX/SLUS-00972.sav": {
+            "hash": "2a66f917833fbc4e42095a18f27dea3b",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Ace%20Combat%203/SLUS-00972/SLUS-00972-1.mcd"
+        },
+        "saves/PSX/SLPS-00208.sav": {
+            "hash": "95f0beffa5b1908a62bf81bf4595e6de",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Advanced%20V.G.%20(Japan)/SLPS-00208/SLPS-00208-1.mcd"
+        },
+        "saves/PSX/SLPS-01318.sav": {
+            "hash": "1e7300e624332f10a68ac83acbca3fad",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Advanced%20V.G.%202%20(Japan)/SLPS-01318/SLPS-01318-1.mcd"
+        },
+        "saves/PSX/SLUS-00001.sav": {
+            "hash": "c69b1dcaba0d3a7adac56a5a6c4436ac",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Air%20Combat/SLUS-00001/SLUS-00001-1.mcd"
+        },
+        "saves/PSX/SCUS-94569.sav": {
+            "hash": "00f0b5555abfa6769de35ae29bddb327",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Aladdin%20in%20Nasira's%20Revenge/SCUS-94569/SCUS-94569-1.mcd"
+        },
+        "saves/PSX/SLUS-00633.sav": {
+            "hash": "37c729805cb9eb67ffbc7d1d6ca5365f",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Alien%20Resurrection/SLUS-00633/SLUS-00633-1.mcd"
+        },
+        "saves/PSX/SCUS-94423.sav": {
+            "hash": "b41642b6dbf8c75d3347f8a6295fbd60",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Ape%20Escape/SCUS-94423/SCUS-94423-1.mcd"
+        },
+        "saves/PSX/SLES-03390.sav": {
+            "hash": "7bebddd9e963adc5899713acbdcb7cc7",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Aqua%20GT%20(Europe)/SLES-03390/SLES-03390-1.mcd"
+        },
+        "saves/PSX/SLUS-01224.sav": {
+            "hash": "4a07f74c946e8dd582400cd63fbe8a4c",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Arc%20The%20Lad%201/SLUS-01224/SLUS-01224-1.mcd"
+        },
+        "saves/PSX/SCUS-94182.sav": {
+            "hash": "50713762e9510c13d3d3b775c4307221",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Armored%20Core/SCUS-94182/SCUS-94182-1.mcd"
+        },
+        "saves/PSX/SLES-00909.sav": {
+            "hash": "f3cbfe46f8b1b232f3fa26add6d66463",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Auto%20Destuct%20(Europe)/SLES-00909/SLES-00909-1.mcd"
+        },
+        "saves/PSX/SLUS-00614.sav": {
+            "hash": "e84dad82d5e5936c95f7d2801afb657b",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Azure%20Dreams/SLUS-00614/SLUS-00614-8.mcd"
+        },
+        "saves/PSX/SLUS-00483.sav": {
+            "hash": "1a47fee83073d457bfd4cea89253b337",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Battle%20Arena%20Toshinden%203/SLUS-00483/SLUS-00483-1.mcd"
+        },
+        "saves/PSX/SLUS-01335.sav": {
+            "hash": "23494cbb05f6291c681a5a9111ba91be",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Battle%20Hunter/SLUS-01335/SLUS-01335-1.mcd"
+        },
+        "saves/PSX/SLUS-01044.sav": {
+            "hash": "2dde6e56858db5f6f1fc2a248e15c976",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Battle%20Tanx%20-%20Global%20Assault/SLUS-01044/SLUS-01044-1.mcd"
+        },
+        "saves/PSX/SLUS-00508.sav": {
+            "hash": "9009c79bfc8b3dd159cbdeccfcba69bd",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Beast%20Wars%20-%20Transformers/SLUS-00508/SLUS-00508-1.mcd"
+        },
+        "saves/PSX/SLUS-00027.sav": {
+            "hash": "cf63f38abf7101e4e9ec49b0d0fdfa54",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Blood%20Omen%20Legacy%20of%20Kain/SLUS-00027/SLUS-00027-1.mcd"
+        },
+        "saves/PSX/SCUS-94199.sav": {
+            "hash": "4ab5bf8af072a12f69b77a91576f7967",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Bloody%20Roar/SCUS-94199/SCUS-94199-1.mcd"
+        },
+        "saves/PSX/SCUS-94424.sav": {
+            "hash": "85c973be08854639e291e583eef36932",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Bloody%20Roar%202/SCUS-94424/SCUS-94424-1.mcd"
+        },
+        "saves/PSX/SCUS-94307.sav": {
+            "hash": "a5ea6998e80be8208cf7f3538bb2a9b8",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Bogey%20Dead%206/SCUS-94307/SCUS-94307-1.mcd"
+        },
+        "saves/PSX/SLUS-00823.sav": {
+            "hash": "e07993e8e4841e9765cab6aefebeb63d",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Bomberman%20Fantasy%20Race/SLUS-00823/SLUS-00823-1.mcd"
+        },
+        "saves/PSX/SLUS-01144.sav": {
+            "hash": "26a8a8c7d564bb240dc42219d0bd330a",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Bugs%20Bunny%20and%20Taz%20-%20Time%20Busters/SLUS-01144/SLUS-01144-1.mcd"
+        },
+        "saves/PSX/SCUS-94180.sav": {
+            "hash": "aca521299991c43d6bd7641d132897e3",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Bushido%20Blade/SCUS-94180/SCUS-94180-1.mcd"
+        },
+        "saves/PSX/SLUS-00663.sav": {
+            "hash": "e41500fe6dbd065883f12d1380dff48a",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Bushido%20Blade%202/SLUS-00663/SLUS-00663-1.mcd"
+        },
+        "saves/PSX/SCUS-94263.sav": {
+            "hash": "8e194a9f5c136f960a81de5b2de46041",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Bust%20A%20Groove/SCUS-94263/SCUS-94263-1.mcd"
+        },
+        "saves/PSX/SLUS-01159.sav": {
+            "hash": "681802f30f6f2d7d4a22602640eef220",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Bust%20A%20Groove%202/SLUS-01159/SLUS-01159-1.mcd"
+        },
+        "saves/PSX/SLUS-00754.sav": {
+            "hash": "b4d992f7d6fc83cb4daf11e5f470a38f",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Bust%20A%20Move%204/SLUS-00754/SLUS-00754-1.mcd"
+        },
+        "saves/PSX/SLES-01363.sav": {
+            "hash": "bfac394897bfdd3c4929bfce03786d12",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/C3%20Racing%20Car%20Constructors%20Championship%20(Europe)/SLES-01363/SLES-01363-1.mcd"
+        },
+        "saves/PSX/SLUS-01476.sav": {
+            "hash": "49f37b1533ad8b3d5a71a765ad850c53",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Capcom%20vs%20SNK%20Pro/SLUS-01476/SLUS-01476-1.mcd"
+        },
+        "saves/PSX/SLUS-00494.sav": {
+            "hash": "248eea51b0d022faea53374ac7d6da4a",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Car%20and%20Driver%20Presents%20Grand%20Tour%20Racing%20'98/SLUS-00494/SLUS-00494-1.mcd"
+        },
+        "saves/PSX/SLUS-00162.sav": {
+            "hash": "93ef278fd60b4e6a3de9802165cbc18d",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Casper/SLUS-00162/SLUS-00162-1.mcd"
+        },
+        "saves/PSX/SLUS-01384.sav": {
+            "hash": "1ecb426e991c9e44f12101924afcddd9",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Castlevania%20Chronicles/SLUS-01384/SLUS-01384-1.mcd"
+        },
+        "saves/PSX/SLUS-00067.sav": {
+            "hash": "6f55613c005f9c3810028ab8da9dfa44",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Castlevania%20SOTN/SLUS-00067/SLUS-00067-1.mcd"
+        },
+        "saves/PSX/SLUS-00807.sav": {
+            "hash": "2ef71b09916c09f85ee998fe6b556355",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Centipede/SLUS-00807/SLUS-00807-1.mcd"
+        },
+        "saves/PSX/SLUS-00844.sav": {
+            "hash": "db2891e5cad232a5637e31d574e464d4",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Chocobo%20Racing/SLUS-00844/SLUS-00844-1.mcd"
+        },
+        "saves/PSX/SLUS-01041.sav": {
+            "hash": "03dbb7617a7c8ac2af75d2f0abe81f82",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Chrono%20Cross/SLUS-01041/SLUS-01041-1.mcd"
+        },
+        "saves/PSX/SLUS-01363.sav": {
+            "hash": "95bc59ea9de89698688d8775b586a8f4",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Chrono%20Trigger/SLUS-01363/SLUS-01363-1.mcd"
+        },
+        "saves/PSX/SLUS-00539.sav": {
+            "hash": "b3cb752551129e3a69942cc51c27fc19",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Clock%20Tower/SLUS-00539/SLUS-00539-1.mcd"
+        },
+        "saves/PSX/SLUS-00695.sav": {
+            "hash": "b6079d4610d3048adab45b06b94e991e",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Clock%20Tower%20II/SLUS-00695/SLUS-00695-1.mcd"
+        },
+        "saves/PSX/SCUS-94474.sav": {
+            "hash": "9ae05dc6224f79a1c17f0b687c0ae351",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Colin%20McRae%20Rally/SCUS-94474/SCUS-94474-1.mcd"
+        },
+        "saves/PSX/SLUS-01222.sav": {
+            "hash": "86dcb2f3bce88589167742a2db6ba4a5",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Colin%20McRae%20Rally%202.0/SLUS-01222/SLUS-01222-1.mcd"
+        },
+        "saves/PSX/SLUS-00543.sav": {
+            "hash": "90e37fa860146b4a0831be3c0b67ddec",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Colony%20Wars/SLUS-00543/SLUS-00543-1.mcd"
+        },
+        "saves/PSX/SLUS-00866.sav": {
+            "hash": "68dce88783c83beb73d59400f297e6ad",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Colony%20Wars%20III%20Red%20Sun/SLUS-00866/SLUS-00866-1.mcd"
+        },
+        "saves/PSX/SLUS-00722.sav": {
+            "hash": "9d84297d0562d75e0a918214a4bf287c",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Colony%20Wars%20Vengeance/SLUS-00722/SLUS-00722-1.mcd"
+        },
+        "saves/PSX/SLUS-00665.sav": {
+            "hash": "35419a53ba37252b6f7f622b479b866a",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Command%20&%20Conquer%20Red%20Alert%20-%20Retaliation/SLUS-00665/SLUS-00665-1.mcd"
+        },
+        "saves/PSX/SCUS-94294.sav": {
+            "hash": "a513c5894925670aba7b6f32a3d3db57",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Contender/SCUS-94294/SCUS-94294-1.mcd"
+        },
+        "saves/PSX/SLUS-01305.sav": {
+            "hash": "82e41298183648742b1a263bc9b35002",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Contender%202/SLUS-01305/SLUS-01305-1.mcd"
+        },
+        "saves/PSX/SCUS-94358.sav": {
+            "hash": "fd68487613d62dfab5b91f8811f70b49",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Cool%20Boarders%202/SCUS-94358/SCUS-94358-1.mcd"
+        },
+        "saves/PSX/SCUS-94597.sav": {
+            "hash": "c2ab514173893936a879e0a3c566dc05",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Cool%20Boarders%202001/SCUS-94597/SCUS-94597-1.mcd"
+        },
+        "saves/PSX/SCUS-94251.sav": {
+            "hash": "156ba792fe02c2c6a22633987f28b520",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Cool%20Boarders%203/SCUS-94251/SCUS-94251-1.mcd"
+        },
+        "saves/PSX/SCUS-94559.sav": {
+            "hash": "9f739ba4fbdcf5c69d4c6605fc22fe1a",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Cool%20Boarders%204/SCUS-94559/SCUS-94559-1.mcd"
+        },
+        "saves/PSX/SLUS-00898.sav": {
+            "hash": "358adacd5096962030c5f57dec5c314e",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Countdown%20Vampires/SLUS-00898/SLUS-00898-1.mcd"
+        },
+        "saves/PSX/SLUS-01151.sav": {
+            "hash": "22d5e2fccc67c217e56226eda9be5572",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Covert%20Ops%20Nuclear%20Dawn/SLUS-01151/SLUS-01151-1.mcd"
+        },
+        "saves/PSX/SCUS-94900.sav": {
+            "hash": "9a4ee722cba91768da72f38748e29c6b",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Crash%20Bandicoot/SCUS-94900/SCUS-94900-1.mcd"
+        },
+        "saves/PSX/SCUS-94154.sav": {
+            "hash": "d1e9b0e0731def15fb7925bed203e8bd",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Crash%20Bandicoot%202/SCUS-94154/SCUS-94154-1.mcd"
+        },
+        "saves/PSX/SCUS-94244.sav": {
+            "hash": "3f166949f96036d6bb73d771ac0e79b0",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Crash%20Bandicoot%203/SCUS-94244/SCUS-94244-1.mcd"
+        },
+        "saves/PSX/SCUS-94570.sav": {
+            "hash": "d89cdfd3baceb9fe18939c9f481063c1",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Crash%20Bash/SCUS-94570/SCUS-94570-1.mcd"
+        },
+        "saves/PSX/SCUS-94426.sav": {
+            "hash": "3a3b7f35591fcd8789121a6f61f83243",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Crash%20Team%20Racing/SCUS-94426/SCUS-94426-1.mcd"
+        },
+        "saves/PSX/SLES-02793.sav": {
+            "hash": "6dda3f659637988bbbf0d61316f205ce",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Crisis%20Beat%20(Europe)/SLES-02793/SLES-02793-1.mcd"
+        },
+        "saves/PSX/SLPS-01044.sav": {
+            "hash": "608132d8e7c3a282f2a8ffda969d0d3a",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Critical%20Blow%20(Japan)/SLPS-01044/SLPS-01044-1.mcd"
+        },
+        "saves/PSX/SLUS-01004.sav": {
+            "hash": "ed85353eea5c084a8b7279492634ff94",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/CyberTiger/SLUS-01004/SLUS-01004-1.mcd"
+        },
+        "saves/PSX/SLPM-86503.sav": {
+            "hash": "6a1a8c39239004fb0307365834ff06f8",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Dance%20Dance%20Revolution%203rd%20Mix%20(Japan)/SLPM-86503/SLPM-86503-1.mcd"
+        },
+        "saves/PSX/SLPM-86752.sav": {
+            "hash": "919ed370550765aedc0cb82c8a8fdf09",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Dance%20Dance%20Revolution%204th%20Mix%20(Japan)/SLPM-86752/SLPM-86752-1.mcd"
+        },
+        "saves/PSX/SLPM-86897.sav": {
+            "hash": "65baeef78df2cea00acc6337ae395f09",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Dance%20Dance%20Revolution%205th%20Mix%20(Japan)/SLPM-86897/SLPM-86897-1.mcd"
+        },
+        "saves/PSX/SLUS-01281.sav": {
+            "hash": "9058dca2cf64493d2498fd2053512ca9",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Dance%20Dance%20Revolution%20Disney%20Mix/SLUS-01281/SLUS-01281-1.mcd"
+        },
+        "saves/PSX/SLPM-86831.sav": {
+            "hash": "cb76c2e22eb9e8ddd1ee95a3698cdb4f",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Dance%20Dance%20Revolution%20Extra%20Mix%20(Japan)/SLPM-86831/SLPM-86831-1.mcd"
+        },
+        "saves/PSX/SLUS-01446.sav": {
+            "hash": "1baaf0582f7e248c9687862ef49ad345",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Dance%20Dance%20Revolution%20Konamix/SLUS-01446/SLUS-01446-1.mcd"
+        },
+        "saves/PSX/SLUS-00881.sav": {
+            "hash": "355618d29298f82c3c835af5692fcf6c",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Danger%20Girl/SLUS-00881/SLUS-00881-1.mcd"
+        },
+        "saves/PSX/SLUS-00745.sav": {
+            "hash": "4b3f82253fbe350860c5361c28be2f72",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Darkstalkers%203/SLUS-00745/SLUS-00745-1.mcd"
+        },
+        "saves/PSX/SLUS-01026.sav": {
+            "hash": "96047fd12a5e5d0209061380af8e84c8",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Dave%20Mirra%20Freestyle%20BMX/SLUS-01026/SLUS-01026-1.mcd"
+        },
+        "saves/PSX/SLUS-00606.sav": {
+            "hash": "168edf8f89216e17689c6c87349d57d2",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Dead%20or%20Alive/SLUS-00606/SLUS-00606-1.mcd"
+        },
+        "saves/PSX/SLUS-00969.sav": {
+            "hash": "2ea121655fa592f2a8a12786e176b44e",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Demolition%20Racer/SLUS-00969/SLUS-00969-1.mcd"
+        },
+        "saves/PSX/SLUS-01328.sav": {
+            "hash": "b09dfe732ccc0f5db5ed4917ea0c12c6",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Digimon%20Digital%20Card%20Battle/SLUS-01328/SLUS-01328-1.mcd"
+        },
+        "saves/PSX/SLUS-00922.sav": {
+            "hash": "8b314aa97f9119c73322bd45f74b1bf9",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Dino%20Crisis/SLUS-00922/SLUS-00922-1.mcd"
+        },
+        "saves/PSX/SLUS-01279.sav": {
+            "hash": "85e7505161764135804e79c30e6bfdaf",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Dino%20Crisis%202/SLUS-01279/SLUS-01279-1.mcd"
+        },
+        "saves/PSX/SCUS-94636.sav": {
+            "hash": "bd2d3521a9c76dfb630cccc1b33f1a90",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Disney's%20Atlantis%20The%20Lost%20Empire/SCUS-94636/SCUS-94636-1.mcd"
+        },
+        "saves/PSX/SCUS-94646.sav": {
+            "hash": "9e793c6fecba899edd8468786a683953",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Disney's%20Lilo%20&%20Stitch/SCUS-94646/SCUS-94646-1.mcd"
+        },
+        "saves/PSX/SLUS-01242.sav": {
+            "hash": "e2cc3de29215c9df0633adbbb9117f25",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Donald%20Duck%20Goin'%20Quackers/SLUS-01242/SLUS-01242-1.mcd"
+        },
+        "saves/PSX/SLUS-00493.sav": {
+            "hash": "4e62a489f3448fe151a56043d3561d44",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Dragon%20Ball%20GT%20Final%20Bout/SLUS-00493/SLUS-00493-1.mcd"
+        },
+        "saves/PSX/SLUS-01092.sav": {
+            "hash": "6a08997197f79797644b1320982701f4",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Dragon%20Valor/SLUS-01092/SLUS-01092-1.mcd"
+        },
+        "saves/PSX/SLUS-01206.sav": {
+            "hash": "65933d3622c2fe52d33d7dc6fdc2906f",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Dragon%20Warrior%20VII/SLUS-01206/SLUS-01206-1.mcd"
+        },
+        "saves/PSX/SLUS-00842.sav": {
+            "hash": "acb57112b5df7813fd16cbbb64cb48fe",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Driver/SLUS-00842/SLUS-00842-1.mcd"
+        },
+        "saves/PSX/SLUS-01161.sav": {
+            "hash": "5cb1eb6fa55e76141f0ed93914541b81",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Driver%202/SLUS-01161/SLUS-01161-1.mcd"
+        },
+        "saves/PSX/SLUS-00438.sav": {
+            "hash": "322da82822d321f7d292878808c883d6",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Dynasty%20Warriors/SLUS-00438/SLUS-00438-1.mcd"
+        },
+        "saves/PSX/SLUS-00820.sav": {
+            "hash": "c9e8acdd31437003fa69c0d020661b17",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Echo%20Night/SLUS-00820/SLUS-00820-1.mcd"
+        },
+        "saves/PSX/SLUS-01169.sav": {
+            "hash": "73c5a22c951972bf6eec6d633856acfa",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/ECW%20Anarchy%20Rulz/SLUS-01169/SLUS-01169-1.mcd"
+        },
+        "saves/PSX/SLUS-00809.sav": {
+            "hash": "fe9a190501161c1c8bf9151cea884da4",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Ehrgeiz/SLUS-00809/SLUS-00809-1.mcd"
+        },
+        "saves/PSX/SCUS-94243.sav": {
+            "hash": "9076cfd57b965ed4c6c73e55f4e5ebed",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Einhander/SCUS-94243/SCUS-94243-1.mcd"
+        },
+        "saves/PSX/SLUS-00654.sav": {
+            "hash": "63ece96dd73539c47e0723fae7672f25",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Elemental%20Gearbolt/SLUS-00654/SLUS-00654-1.mcd"
+        },
+        "saves/PSX/SLUS-01034.sav": {
+            "hash": "34eaa119f6cc97eaac2809dae85ecf5d",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Eternal%20Eyes/SLUS-01034/SLUS-01034-1.mcd"
+        },
+        "saves/PSX/SLUS-00855.sav": {
+            "hash": "d15ae5606593a0305c9dff925b8a3ba2",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Evil%20Zone/SLUS-00855/SLUS-00855-1.mcd"
+        },
+        "saves/PSX/SLUS-01075.sav": {
+            "hash": "8b74b170bde0db991e3931cc492c2939",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Expendable/SLUS-01075/SLUS-01075-8.mcd"
+        },
+        "saves/PSX/SLUS-01001.sav": {
+            "hash": "df83d126025f0f8024e77232c798d1cf",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Fatal%20Fury%20Wild%20Ambition/SLUS-01001/SLUS-01001-1.mcd"
+        },
+        "saves/PSX/SLUS-00934.sav": {
+            "hash": "62c22281c6d2b16a603f6afaf8af1b31",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Fighting%20Force%202/SLUS-00934/SLUS-00934-1.mcd"
+        },
+        "saves/PSX/SLUS-01251.sav": {
+            "hash": "327a3bade305edaeb95d176953896f63",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Final%20Fantasy%20IX/SLUS-01251/SLUS-01251-1.mcd"
+        },
+        "saves/PSX/SCUS-94221.sav": {
+            "hash": "c709c2dd2c553ba88a9e300d6c367832",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Final%20Fantasy%20Tactics/SCUS-94221/SCUS-94221-1.mcd"
+        },
+        "saves/PSX/SLUS-00879.sav": {
+            "hash": "8be4762996570ac7b5e6d51f2fa90841",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Final%20Fantasy%20V(Anthology)/SLUS-00879/SLUS-00879-2.mcd"
+        },
+        "saves/PSX/SLUS-00900.sav": {
+            "hash": "8dfa38eeb0254baa6f3878f283e1c81b",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Final%20Fantasy%20VI%20(Anthology)/SLUS-00900/SLUS-00900-1.mcd"
+        },
+        "saves/PSX/SCUS-94163.sav": {
+            "hash": "8834ebc14cbfeac1e53b00f066b01a6e",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Final%20Fantasy%20VII/SCUS-94163/SCUS-94163-4.mcd"
+        },
+        "saves/PSX/SLUS-00892.sav": {
+            "hash": "349cdaf1094ec00e91635a90a735c2f8",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Final%20Fantasy%20VIII/SLUS-00892/SLUS-00892-1.mcd"
+        },
+        "saves/PSX/SLPS-02065.sav": {
+            "hash": "22761ca9188950ccbeb82c04cbdfca21",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Fire%20Prowrestling%20G%20(Japan)/SLPS-02065/SLPS-02065-2.mcd"
+        },
+        "saves/PSX/SCES-03884.sav": {
+            "hash": "1f60bdd3f503493f920b1a62cd165e5e",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Firebugs%20(Europe)/SCES-03884/SCES-03884-1.mcd"
+        },
+        "saves/PSX/SLES-04109.sav": {
+            "hash": "2525fd8ac46c24c7a496deb55ddfc422",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Ford%20Truck%20Mania%20(Europe)/SLES-04109/SLES-04109-1.mcd"
+        },
+        "saves/PSX/SLUS-00506.sav": {
+            "hash": "f78d04fca9a050b4df7c602de3795222",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Frogger/SLUS-00506/SLUS-00506-1.mcd"
+        },
+        "saves/PSX/SLUS-01172.sav": {
+            "hash": "ef357064f8bc69cb4bdf6a98df48c6a3",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Frogger%202/SLUS-01172/SLUS-01172-1.mcd"
+        },
+        "saves/PSX/SLPS-01000.sav": {
+            "hash": "10c691007eb774ad2632cf235d7cca5e",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Front%20Mission%20Second%20(Japan)/SLPS-01000/SLPS-01000-1.mcd"
+        },
+        "saves/PSX/SLUS-00739.sav": {
+            "hash": "a2d56e72054f67995b3a9c06f394af5e",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Future%20Cop%20L.A.P.D/SLUS-00739/SLUS-00739-1.mcd"
+        },
+        "saves/PSX/SLUS-00544.sav": {
+            "hash": "1e3fc50a34f5853da887ac5a5a8f44a4",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/G-Police/SLUS-00544/SLUS-00544-1.mcd"
+        },
+        "saves/PSX/SLUS-00986.sav": {
+            "hash": "3b42d0d0285ac9973e99829e22fdb827",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Galerians/SLUS-00986/SLUS-00986-1.mcd"
+        },
+        "saves/PSX/SLUS-00624.sav": {
+            "hash": "461dcc696a00c3dd4df59379465b2f46",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Gauntlet%20Legends/SLUS-00624/SLUS-00624-1.mcd"
+        },
+        "saves/PSX/SLUS-00970.sav": {
+            "hash": "3525acf5b19599db6ced4609c68411c3",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Gekido/SLUS-00970/SLUS-00970-1.mcd"
+        },
+        "saves/PSX/SLUS-00806.sav": {
+            "hash": "ca24d36a6d94df8342a2794eda8f8cd4",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Gex%203%20Deep%20Cover%20Gecko/SLUS-00806/SLUS-00806-1.mcd"
+        },
+        "saves/PSX/SLUS-00598.sav": {
+            "hash": "17e125e28df1a2116f6f1a22e64f3659",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Gex%20Enter%20the%20Gecko/SLUS-00598/SLUS-00598-1.mcd"
+        },
+        "saves/PSX/SLPM-86042.sav": {
+            "hash": "643b47cdfaad349b7a8c7976f3d0d676",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Gradius%20Gaiden/SLPM-86042/SLPM-86042-1.mcd"
+        },
+        "saves/PSX/SCUS-94194.sav": {
+            "hash": "8dec942301fd9e5ec98b64d91eee21e1",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Gran%20Turismo/SCUS-94194/SCUS-94194-1.mcd"
+        },
+        "saves/PSX/SCUS-94455.sav": {
+            "hash": "0138c10c5457d8887f473354bd7bfab8",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Gran%20Turismo%202/SCUS-94455/SCUS-94455-1.mcd"
+        },
+        "saves/PSX/SCUS-94457.sav": {
+            "hash": "225bfa40205be4e0a19111f99402d209",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Grandia/SCUS-94457/SCUS-94457-1.mcd"
+        },
+        "saves/PSX/SLUS-00811.sav": {
+            "hash": "6b4d9d863a11cc910b0c7e1cc42b86ca",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Guardian's%20Crusade/SLUS-00811/SLUS-00811-1.mcd"
+        },
+        "saves/PSX/SLUS-00772.sav": {
+            "hash": "98ae425ca573438625e4316665347049",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Guilty%20Gear/SLUS-00772/SLUS-00772-1.mcd"
+        },
+        "saves/PSX/SLUS-01503.sav": {
+            "hash": "dcdb361ac77db43bc0f82df1bc40b9d4",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Harry%20Potter%20and%20the%20Chamber%20of%20Secrets/SLUS-01503/SLUS-01503-1.mcd"
+        },
+        "saves/PSX/SLUS-01415.sav": {
+            "hash": "09050fe088579d0a8124c8c13af1969f",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Harry%20Potter%20and%20the%20Sorcerer's%20Stone/SLUS-01415/SLUS-01415-1.mcd"
+        },
+        "saves/PSX/SLUS-01115.sav": {
+            "hash": "1f31de969ea65eb8ec68f7d840dca31a",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Harvest%20Moon%20Back%20To%20Nature/SLUS-01115/SLUS-01115-1.mcd"
+        },
+        "saves/PSX/SLUS-00696.sav": {
+            "hash": "aa171b450ec23e149f81179a0e2dcbe4",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Heart%20Of%20Darkness/SLUS-00696/SLUS-00696-1.mcd"
+        },
+        "saves/PSX/SLUS-00778.sav": {
+            "hash": "aadaf889bd1d1556a4e8d0f81b3376ca",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Hello%20Kittys%20Cube%20Frenzy/SLUS-00778/SLUS-00778-1.mcd"
+        },
+        "saves/PSX/SLUS-00529.sav": {
+            "hash": "2c1f2e3563ffcae6b2f11aa85c187c1c",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Hercules%20Action%20Game/SLUS-00529/SLUS-00529-1.mcd"
+        },
+        "saves/PSX/SCPS-10012.sav": {
+            "hash": "c0dfce2bc538d4f5620d1bb1ed277094",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Hermie%20Hopperhead%20Scrap%20Panic%20(Japan)/SCPS-10012/SCPS-10012-1.mcd"
+        },
+        "saves/PSX/SLUS-01394.sav": {
+            "hash": "91748b0c69c8d8d05e36f7a4c88b7200",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Hooters%20Road%20Trip/SLUS-01394/SLUS-01394-1.mcd"
+        },
+        "saves/PSX/SCUS-94476.sav": {
+            "hash": "acef28ce752802c69d3604f62aa9158a",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Hot%20Shots%20Golf%202/SCUS-94476/SCUS-94476-1.mcd"
+        },
+        "saves/PSX/SLUS-00847.sav": {
+            "hash": "11b7fb82439e1a2975e6488b28bd33f4",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Hydro%20Thunder/SLUS-00847/SLUS-00847-1.mcd"
+        },
+        "saves/PSX/SLUS-01225.sav": {
+            "hash": "7c8898eb19121b579be564a68d18acc0",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Incredible%20Crisis/SLUS-01225/SLUS-01225-1.mcd"
+        },
+        "saves/PSX/SLPS-01793.sav": {
+            "hash": "d962dec7930173ce052b0a5599185add",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Initial%20D%20(Japan)/SLPS-01793/SLPS-01793-1.mcd"
+        },
+        "saves/PSX/SLUS-01534.sav": {
+            "hash": "0c2638d3ec79a6b62f314b882292d97a",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Inuyasha%20-%20Feudal%20Fairy%20Tale/SLUS-01534/SLUS-01534-1.mcd"
+        },
+        "saves/PSX/SLES-02095.sav": {
+            "hash": "9f801054de1f88d88aea351c8cbe7149",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/ISS%20Pro%20Evolution/SLES-02095/SLES-02095-1.mcd"
+        },
+        "saves/PSX/SLPS-01007.sav": {
+            "hash": "4899f80c65657f78035d962bfb5b3ef4",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/J's%20Racin'%20(Europe)/SLPS-01007/SLPS-01007-8.mcd"
+        },
+        "saves/PSX/SLUS-00684.sav": {
+            "hash": "a8ccfa167f75298aded67d1b23325b66",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Jackie%20Chan%20Stuntmaster/SLUS-00684/SLUS-00684-1.mcd"
+        },
+        "saves/PSX/SLUS-00854.sav": {
+            "hash": "9891d4ddb2002be88e803836436d5e6c",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Jade%20Cocoon%20Story%20of%20the%20Tamamayu/SLUS-00854/SLUS-00854-2.mcd"
+        },
+        "saves/PSX/SCUS-94907.sav": {
+            "hash": "162b8a1a4711f51a9223e7975540e2d9",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Jersey%20Devil/SCUS-94907/SCUS-94907-1.mcd"
+        },
+        "saves/PSX/SCUS-94167.sav": {
+            "hash": "d5f09a2ed5ea9618cc0adf18bab73054",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Jet%20Moto%202/SCUS-94167/SCUS-94167-1.mcd"
+        },
+        "saves/PSX/SCUS-94555.sav": {
+            "hash": "d7e0f10c082fd4d3ae9860589a60d4a6",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Jet%20Moto%203/SCUS-94555/SCUS-94555-1.mcd"
+        },
+        "saves/PSX/SLUS-01060.sav": {
+            "hash": "0436a5f5055b64cbd83cf204b5f36494",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Jojo's%20Bizarre%20Adventure/SLUS-01060/SLUS-01060-1.mcd"
+        },
+        "saves/PSX/SCUS-94103.sav": {
+            "hash": "e39ab89fa786a9f8d031f59c98d854b0",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Jumping%20Flash%21/SCUS-94103/SCUS-94103-1.mcd"
+        },
+        "saves/PSX/SLUS-00766.sav": {
+            "hash": "142e22c3686ac527afefe34669669dfd",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/K-1%20Revenge/SLUS-00766/SLUS-00766-1.mcd"
+        },
+        "saves/PSX/SLUS-00677.sav": {
+            "hash": "f5815e048afb42b3d83aea23cd86096f",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Kagero%20Deception%20II/SLUS-00677/SLUS-00677-1.mcd"
+        },
+        "saves/PSX/SLUS-00600.sav": {
+            "hash": "300c8f69008fccf691130b1ce8802341",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Kensei%20Sacred%20Fist/SLUS-00600/SLUS-00600-1.mcd"
+        },
+        "saves/PSX/SLUS-00158.sav": {
+            "hash": "68c6b9819a80bcb5451544f5ba871ba6",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/King's%20Field/SLUS-00158/SLUS-00158-1.mcd"
+        },
+        "saves/PSX/SLUS-00255.sav": {
+            "hash": "bcd1ee243379ee19e86d3589f9384cb1",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/King's%20Field%20II/SLUS-00255/SLUS-00255-1.mcd"
+        },
+        "saves/PSX/SLUS-00585.sav": {
+            "hash": "c6c3079f5e6fb241360f6c534c93e10a",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Klonoa%20Door%20to%20Phantomile/SLUS-00585/SLUS-00585-1.mcd"
+        },
+        "saves/PSX/SLUS-00708.sav": {
+            "hash": "71fcab0b1ec67c5db77541da9ffbf7d2",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Legacy%20of%20Kain%20Soul%20Reaver/SLUS-00708/SLUS-00708-1.mcd"
+        },
+        "saves/PSX/SCUS-94254.sav": {
+            "hash": "9c478e58871824eff246dae8f839ee3a",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Legend%20of%20Legaia/SCUS-94254/SCUS-94254-1.mcd"
+        },
+        "saves/PSX/SLUS-01013.sav": {
+            "hash": "a6a82fc95897e53a5e6f29243766b030",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Legend%20of%20Mana/SLUS-01013/SLUS-01013-1.mcd"
+        },
+        "saves/PSX/SLUS-00076.sav": {
+            "hash": "8137873503f057f4999ffca27f5cae23",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Loaded/SLUS-00076/SLUS-00076-6.mcd"
+        },
+        "saves/PSX/SLUS-01145.sav": {
+            "hash": "20b42c774490c016dc53b1de98c70284",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Looney%20Tunes%20Racing/SLUS-01145/SLUS-01145-1.mcd"
+        },
+        "saves/PSX/SLUS-01369.sav": {
+            "hash": "13688122ecef660866419a706da0e316",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Looney%20Tunes%20Sheep%20Raider/SLUS-01369/SLUS-01369-1.mcd"
+        },
+        "saves/PSX/SLUS-01071.sav": {
+            "hash": "851b848be432dc56a9610d8e9538d566",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Lunar%202%20Eternal%20Blue/SLUS-01071/SLUS-01071-2.mcd"
+        },
+        "saves/PSX/SLUS-00628.sav": {
+            "hash": "a81d9643c8ae83cc2873db45bed59ef6",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Lunar%20Silver%20Star%20Story%20Complete/SLUS-00628/SLUS-00628-7.mcd"
+        },
+        "saves/PSX/SLUS-01306.sav": {
+            "hash": "95b3dcf7c93518771b4165beb78eb682",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/M&M's%20Shell%20Shocked/SLUS-01306/SLUS-01306-1.mcd"
+        },
+        "saves/PSX/SLPS-02005.sav": {
+            "hash": "5cc24c551283a7def373d7778c8d0495",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Macross%20Do%20You%20Remember%20Love%20(Japan)/SLPS-02005/SLPS-02005-1.mcd"
+        },
+        "saves/PSX/SLPS-02237.sav": {
+            "hash": "2ae7c9bdec3caf15fce68ff47dccf54b",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Macross%20VF-X%202(Japan)/SLPS-02237/SLPS-02237-1.mcd"
+        },
+        "saves/PSX/SLUS-01241.sav": {
+            "hash": "d5847352849e3c3d81ebd20cb90f57b4",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Madden%20NFL%202001/SLUS-01241/SLUS-01241-8.mcd"
+        },
+        "saves/PSX/SLUS-01402.sav": {
+            "hash": "2672fd125e44e38124636bb39245ab6c",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Madden%20NFL%202002/SLUS-01402/SLUS-01402-2.mcd"
+        },
+        "saves/PSX/SLUS-01482.sav": {
+            "hash": "ab7fbd1d781e03b98ba69dd35e8f16b8",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Madden%20NFL%202003/SLUS-01482/SLUS-01482-8.mcd"
+        },
+        "saves/PSX/SLUS-00257.sav": {
+            "hash": "ee355bf0e293c04bde8b035c76c911dc",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Marvel%20Super%20Heroes/SLUS-00257/SLUS-00257-1.mcd"
+        },
+        "saves/PSX/SLUS-00793.sav": {
+            "hash": "d25fae283caac1d2ee86de7980a74066",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Marvel%20Super%20Heroes%20vs.%20Street%20Fighter/SLUS-00793/SLUS-00793-1.mcd"
+        },
+        "saves/PSX/SLUS-01059.sav": {
+            "hash": "39cf2ba478ff2126d0ebdccd8d630e1a",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Marvel%20vs%20Capcom/SLUS-01059/SLUS-01059-1.mcd"
+        },
+        "saves/PSX/SLUS-01113.sav": {
+            "hash": "360d24e2b6bc374c640fc203a57ec50e",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Mat%20Hoffman's%20Pro%20BMX/SLUS-01113/SLUS-01113-6.mcd"
+        },
+        "saves/PSX/SLUS-00974.sav": {
+            "hash": "5a5f092265d63977ff275935cc5dfff8",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Medal%20of%20Honor/SLUS-00974/SLUS-00974-2.mcd"
+        },
+        "saves/PSX/SLUS-01270.sav": {
+            "hash": "b42e1a1257284e5ab28bb18669518861",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Medal%20of%20Honor%20Underground/SLUS-01270/SLUS-01270-2.mcd"
+        },
+        "saves/PSX/SCUS-94227.sav": {
+            "hash": "f9c20684d5b66300520e7eda06c9dff7",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/MediEvil/SCUS-94227/SCUS-94227-2.mcd"
+        },
+        "saves/PSX/SCUS-94564.sav": {
+            "hash": "d0f63501e55d640fa16dad0a53ebcbfa",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/MediEvil%20II/SCUS-94564/SCUS-94564-1.mcd"
+        },
+        "saves/PSX/SCES-02544.sav": {
+            "hash": "dedc9a620c83ccf0026a9755922f70d6",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/MediEvil%20II%20(Europe)/SCES-02544/SCES-02544-1.mcd"
+        },
+        "saves/PSX/SLUS-00453.sav": {
+            "hash": "9a95001924dcf6da18654e67d24d55ae",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Mega%20Man%208/SLUS-00453/SLUS-00453-4.mcd"
+        },
+        "saves/PSX/SLUS-00603.sav": {
+            "hash": "fb2f553125d032ff45137ba8766e548b",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Mega%20Man%20Legends/SLUS-00603/SLUS-00603-1.mcd"
+        },
+        "saves/PSX/SLUS-01140.sav": {
+            "hash": "331b418b413b45878022d8cc5d38e61a",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Mega%20Man%20Legends%202/SLUS-01140/SLUS-01140-1.mcd"
+        },
+        "saves/PSX/SLUS-00561.sav": {
+            "hash": "1b5d1bac1d69f38eb37cd7161420d9ad",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Mega%20Man%20X4/SLUS-00561/SLUS-00561-1.mcd"
+        },
+        "saves/PSX/SLUS-01334.sav": {
+            "hash": "875b6ad5b88adf982c40eb6ab411f7cd",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Mega%20Man%20X5/SLUS-01334/SLUS-01334-1.mcd"
+        },
+        "saves/PSX/SLUS-01395.sav": {
+            "hash": "a035f11d08cb31b96858d005deb85e38",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Mega%20Man%20X6/SLUS-01395/SLUS-01395-8.mcd"
+        },
+        "saves/PSX/SLUS-00594.sav": {
+            "hash": "d5d4a9cfaa1c124dc3abcad81425f62e",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Metal%20Gear%20Solid/SLUS-00594/SLUS-00594-1.mcd"
+        },
+        "saves/PSX/SLUS-00957.sav": {
+            "hash": "28264f25a2e628ab917b39a8ffb90b44",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Metal%20Gear%20Solid%20VR%20Missions/SLUS-00957/SLUS-00957-8.mcd"
+        },
+        "saves/PSX/SLPM-86456.sav": {
+            "hash": "419a79fe41555007e5fc8a4a64750a59",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Metal%20Slug/SLPM-86456/SLPM-86456-8.mcd"
+        },
+        "saves/PSX/SLUS-01212.sav": {
+            "hash": "e86f73d2bc6637b6725eb84fc35626af",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Metal%20Slug%20X/SLUS-01212/SLUS-01212-8.mcd"
+        },
+        "saves/PSX/SLUS-01129.sav": {
+            "hash": "1892226dbc768b40b8fa2814b1597993",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Micro%20Maniacs%20Racing/SLUS-01129/SLUS-01129-1.mcd"
+        },
+        "saves/PSX/SLUS-00992.sav": {
+            "hash": "6986ec8afe6905d9d9b4b9ef3f76537e",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Missile%20Command/SLUS-00992/SLUS-00992-8.mcd"
+        },
+        "saves/PSX/SLPS-01142.sav": {
+            "hash": "750bfc00850016b53d744d8e7544aec6",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Mobile%20Suit%20Z-Gundam(Japan)/SLPS-01142/SLPS-01142-8.mcd"
+        },
+        "saves/PSX/SLUS-00930.sav": {
+            "hash": "02bec995db4eabcc654da0af2233c8fe",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Monkey%20Magic/SLUS-00930/SLUS-00930-8.mcd"
+        },
+        "saves/PSX/SLUS-00568.sav": {
+            "hash": "6eacb9532a46b8b32975e20f6c0ff579",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Monster%20Rancher/SLUS-00568/SLUS-00568-8.mcd"
+        },
+        "saves/PSX/SLUS-00917.sav": {
+            "hash": "3a783ce395e514bc47b13928997674ac",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Monster%20Rancher%202/SLUS-00917/SLUS-00917-8.mcd"
+        },
+        "saves/PSX/SCUS-94635.sav": {
+            "hash": "be44def7d9ede3cb1571e7d75331d554",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Monsters,%20Inc.%20Scream%20Team/SCUS-94635/SCUS-94635-8.mcd"
+        },
+        "saves/PSX/SLUS-00605.sav": {
+            "hash": "d10d3aa2082504146871f521a3c55001",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Mortal%20Kombat%204/SLUS-00605/SLUS-00605-8.mcd"
+        },
+        "saves/PSX/SLUS-00824.sav": {
+            "hash": "70d657642ab75e24a65df14b5a67439d",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Mortal%20Kombat%20Special%20Forces/SLUS-00824/SLUS-00824-8.mcd"
+        },
+        "saves/PSX/SLUS-01018.sav": {
+            "hash": "7d23e5920242d689ee671d0e7d0905ff",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Ms.%20Pac-Man%20Maze%20Madness/SLUS-01018/SLUS-01018-8.mcd"
+        },
+        "saves/PSX/SLUS-01232.sav": {
+            "hash": "d58ddceebc634d6963495375fa48bc42",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/MTV%20Sports%20Skateboarding/SLUS-01232/SLUS-01232-8.mcd"
+        },
+        "saves/PSX/SLUS-00740.sav": {
+            "hash": "1a444fd0a9389e79c92f33af307d5423",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/NASCAR%2099/SLUS-00740/SLUS-00740-8.mcd"
+        },
+        "saves/PSX/SLUS-01166.sav": {
+            "hash": "58177dd2fcdd0f10d37b28f0ff6a6085",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/NASCAR%20Heat%20(Europe)/SLUS-01166/SLUS-01166-8.mcd"
+        },
+        "saves/PSX/SLUS-01068.sav": {
+            "hash": "563c025047d908bece2e3c6c47420a21",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/NASCAR%20Rumble/SLUS-01068/SLUS-01068-8.mcd"
+        },
+        "saves/PSX/SLUS-01271.sav": {
+            "hash": "b0ce3e25f9658332c4cbc132da1a7b55",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/NBA%20Live%202001/SLUS-01271/SLUS-01271-8.mcd"
+        },
+        "saves/PSX/SLUS-00764.sav": {
+            "hash": "1f88e76655fa36c7abb1ea7a7f07db15",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Nectaris%20Military%20Madness/SLUS-00764/SLUS-00764-8.mcd"
+        },
+        "saves/PSX/SLUS-00826.sav": {
+            "hash": "4a3f3d95d9581075e6d7323faa99b123",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Need%20for%20Speed%20High%20Stakes/SLUS-00826/SLUS-00826-8.mcd"
+        },
+        "saves/PSX/SLUS-00620.sav": {
+            "hash": "3579d8a792cf6c33268bf1f20238850f",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Need%20for%20Speed%20III%20Hot%20Pursuit/SLUS-00620/SLUS-00620-8.mcd"
+        },
+        "saves/PSX/SLUS-01104.sav": {
+            "hash": "9c2b1255072936897b229b8fa042c295",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Need%20for%20Speed%20Porsche%20Unleashed/SLUS-01104/SLUS-01104-8.mcd"
+        },
+        "saves/PSX/SLPS-01377.sav": {
+            "hash": "cb4569acae507c6a589d83faa370146f",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Neon%20Genesis%20Evangelion%20Koutetsu%20no%20Girlfriend%20(Japan)/SLPS-01377/SLPS-01377-8.mcd"
+        },
+        "saves/PSX/SLUS-00582.sav": {
+            "hash": "a4b3fafac49c828c84d62a72ab55c10d",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Nightmare%20Creatures/SLUS-00582/SLUS-00582-8.mcd"
+        },
+        "saves/PSX/SLUS-01112.sav": {
+            "hash": "cb415835a41205313cd2476edd7959b9",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Nightmare%20Creatures%20II/SLUS-01112/SLUS-01112-8.mcd"
+        },
+        "saves/PSX/SLPS-03493.sav": {
+            "hash": "b491d81e0f10c8cb62ee013a6d9b9ce0",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Ninpu%20Sentai%20Harikenjaa%20(Japan)/SLPS-03493/SLPS-03493-8.mcd"
+        },
+        "saves/PSX/SLUS-01000.sav": {
+            "hash": "bc1540ec8560d4ab04c1773dc9403f88",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/No%20Fear%20Downhill%20Mountain%20Bike%20Racing/SLUS-01000/SLUS-01000-8.mcd"
+        },
+        "saves/PSX/SLUS-00518.sav": {
+            "hash": "68ab35e84c436546d3d3516b88805e43",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Nuclear%20Strike/SLUS-00518/SLUS-00518-1.mcd"
+        },
+        "saves/PSX/SLPS-00294.sav": {
+            "hash": "85f0ec79ce392908849973a3e0eef5bb",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/NuPa%20Numeric%20Paint%20Puzzle%20(Japan)/SLPS-00294/SLPS-00294-8.mcd"
+        },
+        "saves/PSX/SLUS-00710.sav": {
+            "hash": "17640426ef58ab6a5a5d4cf4cc1b1f2c",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Oddworld%20Abe's%20Exoddus/SLUS-00710/SLUS-00710-8.mcd"
+        },
+        "saves/PSX/SLUS-00190.sav": {
+            "hash": "4d9e6a9c236c61558869ecdcfc1e986d",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Oddworld%20Abe's%20Oddysee/SLUS-00190/SLUS-00190-8.mcd"
+        },
+        "saves/PSX/SLUS-00467.sav": {
+            "hash": "40433905f1e29e5cd07fda0c4f054dc0",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Ogre%20Battle%20The%20March%20of%20the%20Black%20Queen/SLUS-00467/SLUS-00467-8.mcd"
+        },
+        "saves/PSX/SCUS-94449.sav": {
+            "hash": "0a5b11a63663ebaee6d8b5fea7d6835c",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Omega%20Boost/SCUS-94449/SCUS-94449-8.mcd"
+        },
+        "saves/PSX/SLES-03807.sav": {
+            "hash": "949cca13cf68f7eeb5413ff0fc5f41c3",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/One%20Piece%20Grand%20Battle%21%20(Europe)/SLES-03807/SLES-03807-1.mcd"
+        },
+        "saves/PSX/SLPS-02587.sav": {
+            "hash": "3035620685c2f23bc2c262b7c3738aeb",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Option%20Tuning%20Car%20Battle%20Spec%20R%20(Japan)/SLPS-02587/SLPS-02587-8.mcd"
+        },
+        "saves/PSX/SLUS-00464.sav": {
+            "hash": "df62350845ba4168ab6fd21738122656",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/OverBlood/SLUS-00464/SLUS-00464-8.mcd"
+        },
+        "saves/PSX/SLUS-00439.sav": {
+            "hash": "f6ae0f2a87b8d67273ebe74338846128",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Pac-Man%20World/SLUS-00439/SLUS-00439-8.mcd"
+        },
+        "saves/PSX/SLPS-00899.sav": {
+            "hash": "e1a50ecd7c5708d06880e2c910c02627",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Panzer%20Bandit/SLPS-00899/SLPS-00899-8.mcd"
+        },
+        "saves/PSX/SLES-04048.sav": {
+            "hash": "e25318cd0f051a58f798517647c94886",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Paradise%20Casino%20(Europe)/SLES-04048/SLES-04048-8.mcd"
+        },
+        "saves/PSX/SCUS-94183.sav": {
+            "hash": "3e4afe1acf837094fc0e619fa21da832",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Parappa%20The%20Rapper/SCUS-94183/SCUS-94183-1.mcd"
+        },
+        "saves/PSX/SLUS-00662.sav": {
+            "hash": "a02cfadcc34d0ed2c4ea0dc5f9673a49",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Parasite%20Eve/SLUS-00662/SLUS-00662-2.mcd"
+        },
+        "saves/PSX/SLUS-01042.sav": {
+            "hash": "1c501472052379a9d2fa9feaed46514e",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Parasite%20Eve%20II/SLUS-01042/SLUS-01042-1.mcd"
+        },
+        "saves/PSX/SLPS-01762.sav": {
+            "hash": "4058f359159dcb82720da72f4639513a",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Pepsiman/SLPS-01762/SLPS-01762-1.mcd"
+        },
+        "saves/PSX/SLUS-00339.sav": {
+            "hash": "f847788c0eb312572a5dfbee3e924ec8",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Persona/SLUS-00339/SLUS-00339-4.mcd"
+        },
+        "saves/PSX/SLUS-01158.sav": {
+            "hash": "b5e828f7335490f62e0fce10edce9ea1",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Persona%202%20Eternal%20Punishment/SLUS-01158/SLUS-01158-3.mcd"
+        },
+        "saves/PSX/SLUS-01451.sav": {
+            "hash": "e2d375915f2de4c869a275dc81e921bf",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Pink%20Panther%20Pinkadelic%20Pursuit/SLUS-01451/SLUS-01451-1.mcd"
+        },
+        "saves/PSX/SLUS-01409.sav": {
+            "hash": "fb2e3213702c982b51349302824fa158",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Pipe%20Dream%203D/SLUS-01409/SLUS-01409-1.mcd"
+        },
+        "saves/PSX/SLUS-00254.sav": {
+            "hash": "0eb0eae569a951c82d07f6805624d5de",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Pitfall%203D%20Beyond%20the%20Jungle/SLUS-00254/SLUS-00254-1.mcd"
+        },
+        "saves/PSX/SLUS-00481.sav": {
+            "hash": "cfbcbe6e38e8625f1f430273553e8664",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Point%20Blank/SLUS-00481/SLUS-00481-1.mcd"
+        },
+        "saves/PSX/SLUS-01093.sav": {
+            "hash": "53eda3a7c8dbd8171d7385fabc17b358",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Polaris%20SnoCross/SLUS-01093/SLUS-01093-1.mcd"
+        },
+        "saves/PSX/SLUS-80889.sav": {
+            "hash": "9958d7eb146d8c70523fd4a9b57bed97",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Pong%20The%20Next%20Level/SLUS-80889/SLUS-80889-1.mcd"
+        },
+        "saves/PSX/SLUS-00277.sav": {
+            "hash": "e92e319406418626541bdd62be0679c1",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Populous%20The%20Beginning/SLUS-00277/SLUS-00277-1.mcd"
+        },
+        "saves/PSX/SCUS-94187.sav": {
+            "hash": "d073920af2f363e63f0122ac1d9ae798",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Porsche%20Challenge/SCUS-94187/SCUS-94187-1.mcd"
+        },
+        "saves/PSX/SLUS-00419.sav": {
+            "hash": "0f3275668a60bdc133d92f092a53482b",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Psychic%20Force/SLUS-00419/SLUS-00419-1.mcd"
+        },
+        "saves/PSX/SLUS-00904.sav": {
+            "hash": "f52dc51be33242636879d30bbd59ee84",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Qbert/SLUS-00904/SLUS-00904-1.mcd"
+        },
+        "saves/PSX/SLUS-00757.sav": {
+            "hash": "bfad1d311432ab3919421a7dc9075b3a",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Quake%20II/SLUS-00757/SLUS-00757-1.mcd"
+        },
+        "saves/PSX/SLUS-00877.sav": {
+            "hash": "5b4117356a3ef8d1b707309ca18801bf",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/R-Type%20Delta/SLUS-00877/SLUS-00877-1.mcd"
+        },
+        "saves/PSX/SLUS-00403.sav": {
+            "hash": "2f5eb3415ee0c4eef88d05ccdde8a282",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Rage%20Racer/SLUS-00403/SLUS-00403-1.mcd"
+        },
+        "saves/PSX/SLUS-00656.sav": {
+            "hash": "08862d561026a33ca0c345847fcfbd78",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Rat%20Attack%21/SLUS-00656/SLUS-00656-1.mcd"
+        },
+        "saves/PSX/SLUS-00005.sav": {
+            "hash": "ba69881bb0e10f4db7b368b2be02da1c",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Rayman/SLUS-00005/SLUS-00005-1.mcd"
+        },
+        "saves/PSX/SLUS-01235.sav": {
+            "hash": "b5e16fb5866ab8b6db878c9113b9eb2a",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Rayman%202%20The%20Great%20Escape/SLUS-01235/SLUS-01235-1.mcd"
+        },
+        "saves/PSX/SLUS-01458.sav": {
+            "hash": "af96bde063ac1841882718197b358b61",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Rayman%20Rush/SLUS-01458/SLUS-01458-1.mcd"
+        },
+        "saves/PSX/SLUS-01410.sav": {
+            "hash": "c65e69d72927aae5c516cd6939522177",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Razor%20Racing/SLUS-01410/SLUS-01410-1.mcd"
+        },
+        "saves/PSX/SLUS-01147.sav": {
+            "hash": "929270727c0cce8603abd3567f35d251",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Ready%202%20Rumble%20Boxing%20Round%202/SLUS-01147/SLUS-01147-1.mcd"
+        },
+        "saves/PSX/SLUS-00382.sav": {
+            "hash": "4cdb1905aafac2f6c00bdbf984dfbaad",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Reloaded/SLUS-00382/SLUS-00382-1.mcd"
+        },
+        "saves/PSX/SLUS-00170.sav": {
+            "hash": "968f6f26ae34136966dce54a1a147e19",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Resident%20Evil/SLUS-00170/SLUS-00170-1.mcd"
+        },
+        "saves/PSX/SLUS-00421.sav": {
+            "hash": "665aef943f48c2fae25765dd52b5e1db",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Resident%20Evil%202%20Dual%20Shock%20ED/SLUS-00421/SLUS-00421-1.mcd"
+        },
+        "saves/PSX/SLUS-00923.sav": {
+            "hash": "6cceb5517d0734900bd23753101d62cb",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Resident%20Evil%203%20Nemesis/SLUS-00923/SLUS-00923-4.mcd"
+        },
+        "saves/PSX/SLUS-01087.sav": {
+            "hash": "81cad7bfc877d476c8e856b3b208b375",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Resident%20Evil%20Survivor/SLUS-01087/SLUS-01087-1.mcd"
+        },
+        "saves/PSX/SLUS-01073.sav": {
+            "hash": "51db318332b63458edb5fe3143f26f98",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Rhapsody%20A%20Musical%20Adventure/SLUS-01073/SLUS-01073-1.mcd"
+        },
+        "saves/PSX/SCUS-94300.sav": {
+            "hash": "c7bff6ad46afb7469d3e29dfbd57b72d",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Ridge%20Racer/SCUS-94300/SCUS-94300-1.mcd"
+        },
+        "saves/PSX/SLUS-00214.sav": {
+            "hash": "ca22cd11ec144485e65c7b059a5d5e33",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Ridge%20Racer%20Revolution/SLUS-00214/SLUS-00214-1.mcd"
+        },
+        "saves/PSX/SLUS-00797.sav": {
+            "hash": "f9dd3900782e15636735132c31441388",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Ridge%20Racer%20Type%204/SLUS-00797/SLUS-00797-1.mcd"
+        },
+        "saves/PSX/SLUS-00681.sav": {
+            "hash": "06b5d34cfcc646d3e0492fc6bbb0325e",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Rival%20Schools/SLUS-00681/SLUS-00681-1.mcd"
+        },
+        "saves/PSX/SLUS-00771.sav": {
+            "hash": "06b5d34cfcc646d3e0492fc6bbb0325e",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Rival%20Schools/SLUS-00771/SLUS-00771-1.mcd"
+        },
+        "saves/PSX/SLUS-00524.sav": {
+            "hash": "97f7bb5d5b3843c781f0ab10606a61b4",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Road%20Rash%203D/SLUS-00524/SLUS-00524-1.mcd"
+        },
+        "saves/PSX/SLUS-01053.sav": {
+            "hash": "0d48170150ccd469d03d13ee6a7f2648",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Road%20Rash%20Jailbreak/SLUS-01053/SLUS-01053-1.mcd"
+        },
+        "saves/PSX/SLUS-00316.sav": {
+            "hash": "a6ba0f7a83ee1bb31f194f5974d142c4",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Robo%20Pit/SLUS-00316/SLUS-00316-1.mcd"
+        },
+        "saves/PSX/SLUS-01124.sav": {
+            "hash": "f39e2d289d6b114c8cfac97065982b27",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Rock%20'Em%20Sock%20'Em%20Robots%20Arena/SLUS-01124/SLUS-01124-1.mcd"
+        },
+        "saves/PSX/SLPS-02220.sav": {
+            "hash": "a2d32a66d0eb04bd794e99c722a68a38",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/RockMan%201%20(Japan)/SLPS-02220/SLPS-02220-1.mcd"
+        },
+        "saves/PSX/SLPS-02324.sav": {
+            "hash": "853a907fe2fed87cd6d8a04925594097",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Rockman%204%20(Japan)/SLPS-02324/SLPS-02324-1.mcd"
+        },
+        "saves/PSX/SLPS-00283.sav": {
+            "hash": "f769a3a2b01c521bbb14c65f5a5db6f2",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/RockMan%20X3%20(Japan)/SLPS-00283/SLPS-00283-1.mcd"
+        },
+        "saves/PSX/SLUS-00867.sav": {
+            "hash": "c779047c28cca40834e566abaed51f13",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Rollcage%20Stage%202/SLUS-00867/SLUS-00867-1.mcd"
+        },
+        "saves/PSX/SCUS-94230.sav": {
+            "hash": "028ee48029c8f20d66c5c71d42c12e7b",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Saga%20Frontier/SCUS-94230/SCUS-94230.mcd"
+        },
+        "saves/PSX/SLUS-00933.sav": {
+            "hash": "482e7ed61061baf3dccfc9d00533b011",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/SaGa%20Frontier%202/SLUS-00933/SLUS-00933-1.mcd"
+        },
+        "saves/PSX/SLUS-01039.sav": {
+            "hash": "9541b05aeb0bda69c32fae772ca49079",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Samurai%20Shodown%20Warriors%20Rage/SLUS-01039/SLUS-01039-1.mcd"
+        },
+        "saves/PSX/SLUS-01396.sav": {
+            "hash": "9d547fc7d964f534bc06d6da5005aa09",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Scooby-Doo%20and%20the%20Cyber%20Chase/SLUS-01396/SLUS-01396-1.mcd"
+        },
+        "saves/PSX/SLUS-00468.sav": {
+            "hash": "436c545a8b6447e6d64c2e98cfa6534d",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Shadow%20Madness/SLUS-00468/SLUS-00468-1.mcd"
+        },
+        "saves/PSX/SLUS-01308.sav": {
+            "hash": "48209026ff77247a526960b76b6b4b7f",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Shooter%20Space%20Shot/SLUS-01308/SLUS-01308-1.mcd"
+        },
+        "saves/PSX/SLUS-00902.sav": {
+            "hash": "c25311e4e768b40b93ee6c4e4e504077",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Silent%20Bomber/SLUS-00902/SLUS-00902-1.mcd"
+        },
+        "saves/PSX/SLUS-00707.sav": {
+            "hash": "c35f941671aface0407c4d27ec568a9f",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Silent%20Hill/SLUS-00707/SLUS-00707-4.mcd"
+        },
+        "saves/PSX/SLUS-00728.sav": {
+            "hash": "d85e1616dd53b0a9bdf4c1bdc582f910",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Silhouette%20Mirage/SLUS-00728/SLUS-00728-1.mcd"
+        },
+        "saves/PSX/SLUS-00050.sav": {
+            "hash": "5d1d6b490a1f3026f64e4ecc71d1f325",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Silverload/SLUS-00050/SLUS-00050-1.mcd"
+        },
+        "saves/PSX/SLUS-01359.sav": {
+            "hash": "7f529ff693b6c27b72b24bf548b36490",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Smurf%20Racer%21/SLUS-01359/SLUS-01359-1.mcd"
+        },
+        "saves/PSX/SLUS-00240.sav": {
+            "hash": "808b2a1e7c0af03c26bed2cfd6275b36",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Soul%20Blade/SLUS-00240/SLUS-00240-1.mcd"
+        },
+        "saves/PSX/SLPS-00555.sav": {
+            "hash": "4899f80c65657f78035d962bfb5b3ef4",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Soul%20Edge%20(Japan)/SLPS-00555/SLPS-00555-8.mcd"
+        },
+        "saves/PSX/SLUS-00822.sav": {
+            "hash": "cc23ad250b83af47dbd1b542366d738d",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Soul%20of%20the%20Samurai/SLUS-00822/SLUS-00822-1.mcd"
+        },
+        "saves/PSX/SLUS-00936.sav": {
+            "hash": "677c359ac8a66c2833cfde49126a3c33",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/South%20Park/SLUS-00936/SLUS-00936-1.mcd"
+        },
+        "saves/PSX/SLUS-00984.sav": {
+            "hash": "82dad262066f9132fdf52b78786f52da",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/South%20Park%20Rally/SLUS-00984/SLUS-00984-1.mcd"
+        },
+        "saves/PSX/SLUS-00061.sav": {
+            "hash": "0aca8483a321b1a1da9b2d35524d26ca",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Soviet%20Strike/SLUS-00061/SLUS-00061-1.mcd"
+        },
+        "saves/PSX/SLUS-00928.sav": {
+            "hash": "b913169c3ba12c4f8bf6ff76c3df2f7e",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Space%20Invaders/SLUS-00928/SLUS-00928-1.mcd"
+        },
+        "saves/PSX/SCUS-94204.sav": {
+            "hash": "683c78f9aa150e0c9421cd10fe70becf",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Spawn%20The%20Eternal/SCUS-94204/SCUS-94204-1.mcd"
+        },
+        "saves/PSX/SLUS-00875.sav": {
+            "hash": "d5bf168115be7697e7fdd7ec139606c5",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Spider-Man/SLUS-00875/SLUS-00875-1.mcd"
+        },
+        "saves/PSX/SLUS-01378.sav": {
+            "hash": "13b81aae4526f00ad47aeb155eb06132",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Spider-Man%202/SLUS-01378/SLUS-01378-1.mcd"
+        },
+        "saves/PSX/SCUS-94425.sav": {
+            "hash": "6570b4a06e8dc43e6df49d8a55c487da",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Spyro%202/SCUS-94425/SCUS-94425-1.mcd"
+        },
+        "saves/PSX/SCUS-94467.sav": {
+            "hash": "156c7a043c7dc306ae7271cd79a6b624",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Spyro%203/SCUS-94467/SCUS-94467-1.mcd"
+        },
+        "saves/PSX/SCUS-94228.sav": {
+            "hash": "dfde4384ab17a0dbfede5cc28265ae2e",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Spyro%20the%20Dragon/SCUS-94228/SCUS-94228-2.mcd"
+        },
+        "saves/PSX/SLUS-00372.sav": {
+            "hash": "02481ca1131264aa3e466d1b127cf62d",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Star%20Gladiator%20Episode%20I/SLUS-00372/SLUS-00372-1.mcd"
+        },
+        "saves/PSX/SCUS-94421.sav": {
+            "hash": "fcaa2895e3284e11c0527cb83ae4d242",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Star%20Ocean%20The%20Second%20Story/SCUS-94421/SCUS-94421-1.mcd"
+        },
+        "saves/PSX/SLUS-01307.sav": {
+            "hash": "4492fb4678ff5317e2d0b21226a384b9",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Star%20Sweep/SLUS-01307/SLUS-01307-1.mcd"
+        },
+        "saves/PSX/SLUS-00924.sav": {
+            "hash": "f08910c7f3181a4b07f2f6a8551b0642",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Star%20Trek%20Invasion/SLUS-00924/SLUS-00924-1.mcd"
+        },
+        "saves/PSX/SLUS-00297.sav": {
+            "hash": "32b54f38a606246401c192f9b1cba655",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Star%20Wars%20-%20Dark%20Forces/SLUS-00297/SLUS-00297-1.mcd"
+        },
+        "saves/PSX/SLUS-01183.sav": {
+            "hash": "07c882c898a16acd99ab44ce9912ca66",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Star%20Wars%20Demolition/SLUS-01183/SLUS-01183-1.mcd"
+        },
+        "saves/PSX/SLUS-01046.sav": {
+            "hash": "5c2b8708b87d53943c20847b1e680c91",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Star%20Wars%20Episode%20I%20Jedi%20Power%20Battles/SLUS-01046/SLUS-01046-1.mcd"
+        },
+        "saves/PSX/SLUS-00562.sav": {
+            "hash": "3cbef66c223ebcd22b48562b6c398eb0",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Star%20Wars%20Masters%20of%20Teras%20Kasi/SLUS-00562/SLUS-00562-1.mcd"
+        },
+        "saves/PSX/SLUS-00381.sav": {
+            "hash": "c00d46381c2c49b4f73f43235b7cef2e",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Star%20Wars%20Rebel%20Assault%20II/SLUS-00381/SLUS-00381-1.mcd"
+        },
+        "saves/PSX/SLUS-00197.sav": {
+            "hash": "8b1e07996fee4ed4999efcbd0453f4f9",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Street%20Fighter%20Alpha/SLUS-00197/SLUS-00197-1.mcd"
+        },
+        "saves/PSX/SLUS-00258.sav": {
+            "hash": "9f1025fd605bfa9e1f2778b8ca3e8b6b",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Street%20Fighter%20Alpha%202/SLUS-00258/SLUS-00258-1.mcd"
+        },
+        "saves/PSX/SLUS-00821.sav": {
+            "hash": "3d8016f9b2accd6784eb99cb4687202b",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Street%20Fighter%20Alpha%203/SLUS-00821/SLUS-00821-1.mcd"
+        },
+        "saves/PSX/SLUS-00746.sav": {
+            "hash": "ebabf6494d992162753307da5e37ae81",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Street%20Fighter%20Collection%202/SLUS-00746/SLUS-00746-1.mcd"
+        },
+        "saves/PSX/SLUS-00548.sav": {
+            "hash": "387ad43444c86532d6b6c999c8fc2198",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Street%20Fighter%20EX%20Plus%20Alpha/SLUS-00548/SLUS-00548-1.mcd"
+        },
+        "saves/PSX/SLUS-01105.sav": {
+            "hash": "a053ffdf0253c0cdb205930451701d9e",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Street%20Fighter%20EX2%20Plus/SLUS-01105/SLUS-01105-1.mcd"
+        },
+        "saves/PSX/SLUS-00818.sav": {
+            "hash": "fa5c766186e01cd1d63a57818e745c77",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Street%20Sk8er/SLUS-00818/SLUS-00818-1.mcd"
+        },
+        "saves/PSX/SLUS-01163.sav": {
+            "hash": "0b0867f87246967553cb83a89bdc21a5",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Strider%202/SLUS-01163/SLUS-01163-1.mcd"
+        },
+        "saves/PSX/SLUS-00292.sav": {
+            "hash": "25efb41f69a51471dc1612d01d49c132",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Suikoden/SLUS-00292/SLUS-00292-1.mcd"
+        },
+        "saves/PSX/SLUS-00958.sav": {
+            "hash": "48ad8582b2e9c36ff4403e88715db799",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Suikoden%202/SLUS-00958/SLUS-00958-1.mcd"
+        },
+        "saves/PSX/SLUS-00418.sav": {
+            "hash": "da8997c46d304703072df3118a9eab01",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Super%20Puzzle%20Fighter%20II%20Turbo/SLUS-00418/SLUS-00418-1.mcd"
+        },
+        "saves/PSX/SLUS-01493.sav": {
+            "hash": "7295b098c3cb5daa0fa51b48e1bb680e",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Superstar%20Dance%20Club%20%231%20Hits%21%21%21/SLUS-01493/SLUS-01493-1.mcd"
+        },
+        "saves/PSX/SCUS-94240.sav": {
+            "hash": "d7e37a4ffb07343ee161c20b53508853",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Syphon%20Filter/SCUS-94240/SCUS-94240-2.mcd"
+        },
+        "saves/PSX/SCUS-94451.sav": {
+            "hash": "673808666a0caf7dd2147066d16e9066",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Syphon%20Filter%202/SCUS-94451/SCUS-94451-2.mcd"
+        },
+        "saves/PSX/SCUS-94640.sav": {
+            "hash": "3d2c9ad0ee5757076d7141f8cb2c5342",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Syphon%20Filter%203/SCUS-94640/SCUS-94640-2.mcd"
+        },
+        "saves/PSX/SLUS-00787.sav": {
+            "hash": "30616dabc1580146895c54e1089b2832",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/T'ai%20Fu%20Wrath%20of%20the%20Tiger/SLUS-00787/SLUS-00787-1.mcd"
+        },
+        "saves/PSX/SLUS-00560.sav": {
+            "hash": "a8a607a4741074e0f66150391533f981",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Tactics%20Ogre/SLUS-00560/SLUS-00560-7.mcd"
+        },
+        "saves/PSX/SLUS-00660.sav": {
+            "hash": "b77599f54e33b7a9d6a97bf51fc3ae16",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Tail%20Concerto/SLUS-00660/SLUS-00660-1.mcd"
+        },
+        "saves/PSX/SCUS-94607.sav": {
+            "hash": "ccc13994caba46cb14d9b257e90f9182",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Tail%20of%20the%20Sun/SCUS-94607/SCUS-94607-1.mcd"
+        },
+        "saves/PSX/SLUS-00626.sav": {
+            "hash": "f22ce45e29e89fa099ee420592b080d1",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Tales%20of%20Destiny/SLUS-00626/SLUS-00626-7.mcd"
+        },
+        "saves/PSX/SLUS-01355.sav": {
+            "hash": "b1d540e7590a6360c5d9dc43d60303c7",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Tales%20of%20Destiny%20II/SLUS-01355/SLUS-01355-7.mcd"
+        },
+        "saves/PSX/SLUS-01537.sav": {
+            "hash": "27b768cb7e6fe4ca00f99bf5faed2774",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Tarzan/SLUS-01537/SLUS-01537-1.mcd"
+        },
+        "saves/PSX/SCES-01923.sav": {
+            "hash": "349c0460426ff8b3285f76d97bd3f520",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Team%20Buddies%20(Europe)/SCES-01923/SCES-01923-1.mcd"
+        },
+        "saves/PSX/SLUS-00340.sav": {
+            "hash": "fe85bc206072769c03e34b3c105b2e54",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Tecmo's%20Deception%20Invitation%20to%20Darkness/SLUS-00340/SLUS-00340-3.mcd"
+        },
+        "saves/PSX/SLUS-00006.sav": {
+            "hash": "bfece07be2bbd5fc540b63842e6aaa57",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Tekken/SLUS-00006/SLUS-00006-1.mcd"
+        },
+        "saves/PSX/SLUS-00213.sav": {
+            "hash": "48462d419c8063182908c2c7a42ba7ba",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Tekken2/SLUS-00213/SLUS-00213-1.mcd"
+        },
+        "saves/PSX/SLUS-00402.sav": {
+            "hash": "156cf9bf3604d4486692bb7e05c6391d",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Tekken3/SLUS-00402/SLUS-00402-1.mcd"
+        },
+        "saves/PSX/SLUS-00283.sav": {
+            "hash": "5ac953eb98c18d424c6a75a2c8f68429",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Tempest%20X3/SLUS-00283/SLUS-00283-1.mcd"
+        },
+        "saves/PSX/SLUS-00939.sav": {
+            "hash": "83df25bf4e565049fb37ce3ab0cd3bf7",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Tenchu%202%20Birth%20of%20the%20Stealth%20Assassins/SLUS-00939/SLUS-00939-6.mcd"
+        },
+        "saves/PSX/SLUS-00706.sav": {
+            "hash": "f20122242dd02568587579e77d62bc16",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Tenchu%20Stealth%20Assassins/SLUS-00706/SLUS-00706-1.mcd"
+        },
+        "saves/PSX/SLUS-00610.sav": {
+            "hash": "3a04683e6722c147167131a5d1eceec0",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Test%20Drive%205/SLUS-00610/SLUS-00610-1.mcd"
+        },
+        "saves/PSX/SLUS-00839.sav": {
+            "hash": "c4f4dc872d7b879862be737ab5496808",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Test%20Drive%206/SLUS-00839/SLUS-00839-1.mcd"
+        },
+        "saves/PSX/SLUS-00338.sav": {
+            "hash": "8f6f1e8b71fd9b75f1fc8342ea12b0e5",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Tetris%20Plus/SLUS-00338/SLUS-00338-1.mcd"
+        },
+        "saves/PSX/SLUS-00597.sav": {
+            "hash": "2ba2662bbfbfc12ff8ec32cea13b0607",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/The%20Granstream%20Saga/SLUS-00597/SLUS-00597-1.mcd"
+        },
+        "saves/PSX/SLUS-01457.sav": {
+            "hash": "9e967d9f53ace0900f7fee63c7b8909d",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/The%20Italian%20Job/SLUS-01457/SLUS-01457-1.mcd"
+        },
+        "saves/PSX/SLPS-00351.sav": {
+            "hash": "6650acde47627f1ce9f5da7cb1935bc9",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/The%20King%20of%20Fighters%20'95%20(Japan)/SLPS-00351/SLPS-00351-1.mcd"
+        },
+        "saves/PSX/SLPM-86084.sav": {
+            "hash": "82b91d5889c3e56517e75d6a1c6cd31d",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/The%20King%20of%20Fighters%20'97%20(Japan)/SLPM-86084/SLPM-86084-1.mcd"
+        },
+        "saves/PSX/SLPM-86201.sav": {
+            "hash": "9d7c3a40c252c6f1989d430a843fdc0d",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/The%20King%20of%20Fighters%20'98%20(Japan)/SLPM-86201/SLPM-86201-1.mcd"
+        },
+        "saves/PSX/SLPM-86462.sav": {
+            "hash": "50da7a5683a13a67c0791cb7bfb4a940",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/The%20King%20of%20Fighters%20'99%20(Japan)/SLPM-86462/SLPM-86462-1.mcd"
+        },
+        "saves/PSX/SLPM-86095.sav": {
+            "hash": "a1863bafe4d877351dc7b388f4e38747",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/The%20King%20of%20Fighters%20Kyo/SLPM-86095/SLPM-86095-1.mcd"
+        },
+        "saves/PSX/SCUS-94491.sav": {
+            "hash": "649d028f26cae2a4efc34acfaf327cdf",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/The%20Legend%20of%20Dragoon/SCUS-94491/SCUS-94491-1.mcd"
+        },
+        "saves/PSX/SLUS-00896.sav": {
+            "hash": "f19163bf5d8f459a113c44df0177f906",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/The%20Misadventures%20of%20Tron%20Bonne/SLUS-00896/SLUS-00896-8.mcd"
+        },
+        "saves/PSX/SLUS-01227.sav": {
+            "hash": "776aa251b9bcd7b287ca9840486c7f50",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/The%20Simpsons%20Wrestling/SLUS-01227/SLUS-01227-1.mcd"
+        },
+        "saves/PSX/SLUS-01128.sav": {
+            "hash": "eaa04aaa5bb40bd186f6dd1395debae8",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/The%20Wild%20Thornberrys%20Animal%20Adventures/SLUS-01128/SLUS-01128-1.mcd"
+        },
+        "saves/PSX/SCES-03070.sav": {
+            "hash": "c19cc1f5fb948e1422b14580b18c0bd1",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/This%20Is%20Football%202%20(Europe)/SCES-03070/SCES-03070-1.mcd"
+        },
+        "saves/PSX/SLUS-00845.sav": {
+            "hash": "933f80a9abc20477c13d3a89d082436b",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Thousand%20Arms/SLUS-00845/SLUS-00845-1.mcd"
+        },
+        "saves/PSX/SLUS-00935.sav": {
+            "hash": "52a97da01e6dfc361717fbebee56d185",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Thrasher%20Presents%20Skate%20and%20Destroy/SLUS-00935/SLUS-00935-1.mcd"
+        },
+        "saves/PSX/SLUS-01019.sav": {
+            "hash": "aba5e9a5af0946d7b9177a85158fc13e",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Urban%20Chaos/SLUS-01019/SLUS-01019-1.mcd"
+        },
+        "saves/PSX/SLUS-00752.sav": {
+            "hash": "15b6bea5b8d7820758a934279cbbb3b0",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Thrill%20Kill/SLUS-00752/SLUS-00752-1.mcd"
+        },
+        "saves/PSX/SLES-03459.sav": {
+            "hash": "529a7bafdfdfc944a0f8a341e84d8f11",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Tintin%20Destination%20Adventure%20(Europe)/SLES-03459/SLES-03459-1.mcd"
+        },
+        "saves/PSX/SLPM-86033.sav": {
+            "hash": "363975b29b499c5bdf6e32b4273da945",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Tobal%202%20(Japan)/SLPM-86033/SLPM-86033-1.mcd"
+        },
+        "saves/PSX/SCUS-94208.sav": {
+            "hash": "020d9000b58d30975c11bcf922199787",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Tobal%20No.%201/SCUS-94208/SCUS-94208-1.mcd"
+        },
+        "saves/PSX/SLUS-00152.sav": {
+            "hash": "9b560440d32688e4506dcace21f7091a",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Tomb%20Raider/SLUS-00152/SLUS-00152-1.mcd"
+        },
+        "saves/PSX/SLUS-00437.sav": {
+            "hash": "f74f25c908c00429c6246c14126f475f",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Tomb%20Raider%20II/SLUS-00437/SLUS-00437-1.mcd"
+        },
+        "saves/PSX/SLUS-00691.sav": {
+            "hash": "8e5541ed4575a4f049f5dcbf2660fa45",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Tomb%20Raider%20III/SLUS-00691/SLUS-00691-1.mcd"
+        },
+        "saves/PSX/SCUS-94236.sav": {
+            "hash": "aa41ef4b7f1e1be51d1c9046e9080a29",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Tomba%21/SCUS-94236/SCUS-94236-8.mcd"
+        },
+        "saves/PSX/SCUS-94454.sav": {
+            "hash": "6968b96ee0485a5657265547902d304b",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Tomba%21%202%20The%20Evil%20Swine%20Return/SCUS-94454/SCUS-94454-1.mcd"
+        },
+        "saves/PSX/SLUS-01066.sav": {
+            "hash": "fa3f56b3df15868525fbe9527d2f121f",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Tony%20Hawk%20Pro%202/SLUS-01066/SLUS-01066-1.mcd"
+        },
+        "saves/PSX/SLUS-01419.sav": {
+            "hash": "dfb0b1c884bc165ceecf26abde7da321",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Tony%20Hawk%20Pro%203/SLUS-01419/SLUS-01419-1.mcd"
+        },
+        "saves/PSX/SLUS-01485.sav": {
+            "hash": "36a79604a32106652993a67f397eb434",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Tony%20Hawk%20Pro%204/SLUS-01485/SLUS-01485-1.mcd"
+        },
+        "saves/PSX/SLUS-00860.sav": {
+            "hash": "4dd2ebc1f0f8bb21597bf70e38dbc4d1",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Tony%20Hawk's%20Pro%20Skater/SLUS-00860/SLUS-00860-1.mcd"
+        },
+        "saves/PSX/SLUS-01181.sav": {
+            "hash": "dbb4dab5aa8ee00b84206dc6ecc53b11",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Torneko%20The%20Last%20Hope/SLUS-01181/SLUS-01181-1.mcd"
+        },
+        "saves/PSX/SLUS-00893.sav": {
+            "hash": "45e00458660a7793635740fbd8a189a9",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Toy%20Story%202%20Buzz%20Lightyear%20to%20the%20Rescue%21/SLUS-00893/SLUS-00893-1.mcd"
+        },
+        "saves/PSX/SLUS-00679.sav": {
+            "hash": "a2214c2ab2affabe8a3bd288a57825d3",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Trap%20Gunner%20Countdown%20to%20Oblivion/SLUS-00679/SLUS-00679-1.mcd"
+        },
+        "saves/PSX/SLUS-01082.sav": {
+            "hash": "621e17a0173b73360e086e8779006bc1",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Triple%20Play%202001/SLUS-01082/SLUS-01082-1.mcd"
+        },
+        "saves/PSX/SCUS-94560.sav": {
+            "hash": "572718fd2ed3cc3593a0db0b24a1d194",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Twisted%20Metal%204/SCUS-94560/SCUS-94560-1.mcd"
+        },
+        "saves/PSX/SCUS-94642.sav": {
+            "hash": "0a7cee3f0f22004ebc57b8ff1683be93",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Twisted%20Metal%20Small%20Brawl/SCUS-94642/SCUS-94642-1.mcd"
+        },
+        "saves/PSX/SCUS-94448.sav": {
+            "hash": "adbd224568bfbed3feea827e6a6bb14c",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Um%20Jammer%20Lammy/SCUS-94448/SCUS-94448-1.mcd"
+        },
+        "saves/PSX/SLPS-02516.sav": {
+            "hash": "4360a67bb136e1f180369e47761d5815",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/V-Rally%202%20(Japan)/SLPS-02516/SLPS-02516-8.mcd"
+        },
+        "saves/PSX/SLUS-01228.sav": {
+            "hash": "8126b977e682917bc4fcd92e4fc8d658",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/V.I.P/SLUS-01228/SLUS-01228-1.mcd"
+        },
+        "saves/PSX/SLUS-01040.sav": {
+            "hash": "31d85a6b0b300b077416bd93c0b1b95c",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Vagrant%20Story/SLUS-01040/SLUS-01040-1.mcd"
+        },
+        "saves/PSX/SLUS-01156.sav": {
+            "hash": "2e77c3aa435cf1924f9229bb0c321895",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Valkyrie%20Profile/SLUS-01156/SLUS-01156-1.mcd"
+        },
+        "saves/PSX/SLUS-00447.sav": {
+            "hash": "dd0a068a78d8be2b097a3f303a52f48d",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Vandal%20Hearts/SLUS-00447/SLUS-00447-1.mcd"
+        },
+        "saves/PSX/SLUS-00940.sav": {
+            "hash": "7296b48c76a6bf83476eb7b922d86e54",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Vandal%20Hearts%20II/SLUS-00940/SLUS-00940-1.mcd"
+        },
+        "saves/PSX/SLUS-01070.sav": {
+            "hash": "3d4edf4ef7b49e96708d6ddb365fbec7",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Vanguard%20Bandits/SLUS-01070/SLUS-01070-1.mcd"
+        },
+        "saves/PSX/SLUS-00510.sav": {
+            "hash": "ba2596db359c4af4c1e32c63d0aca634",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Vigilante%208/SLUS-00510/SLUS-00510-1.mcd"
+        },
+        "saves/PSX/SLUS-00868.sav": {
+            "hash": "0a9b17e0be3aca396765ff45003c8e51",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Vigilante%208%20-%202nd%20Offense/SLUS-00868/SLUS-00868-1.mcd"
+        },
+        "saves/PSX/SLES-02468.sav": {
+            "hash": "7d3b98a7184ffa9888138a5fc88663aa",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Wacky%20Races%20(Europe)/SLES-02468/SLES-02468-1.mcd"
+        },
+        "saves/PSX/SLUS-00117.sav": {
+            "hash": "93e6da5edb3eaf1dfac3eb95f9a40dbf",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Warhammer%20Shadow%20of%20the%20Horned%20Rat/SLUS-00117/SLUS-00117-1.mcd"
+        },
+        "saves/PSX/SLUS-00976.sav": {
+            "hash": "d077f25f7c4830284546f9d3208ee701",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Warpath%20Jurassic%20Park/SLUS-00976/SLUS-00976-1.mcd"
+        },
+        "saves/PSX/SLUS-01274.sav": {
+            "hash": "4ef0935e99d15603fcbb250440358786",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/WCW%20Backstage%20Assault/SLUS-01274/SLUS-01274-1.mcd"
+        },
+        "saves/PSX/SLUS-00455.sav": {
+            "hash": "7a3c670c35bc65951538bafe5a6432cd",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/WCW%20vs%20The%20World/SLUS-00455/SLUS-00455-1.mcd"
+        },
+        "saves/PSX/SLUS-00425.sav": {
+            "hash": "9a27e7dbec7373164627e97632704ba2",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Wild%209/SLUS-00425/SLUS-00425-1.mcd"
+        },
+        "saves/PSX/SCUS-94608.sav": {
+            "hash": "82bcf073db1bc168218aa0aabed2960c",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Wild%20Arms/SCUS-94608/SCUS-94608-1.mcd"
+        },
+        "saves/PSX/SCUS-94484.sav": {
+            "hash": "563fe6d6131c14281036730b7616ec4c",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Wild%20ARMs%202/SCUS-94484/SCUS-94484-1.mcd"
+        },
+        "saves/PSX/SLUS-00865.sav": {
+            "hash": "15b7001748162298ad90876bc3904c8d",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Wipeout%203/SLUS-00865/SLUS-00865-1.mcd"
+        },
+        "saves/PSX/SLUS-01188.sav": {
+            "hash": "1d18ccedb4e81d2c2113691e9262c0f8",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Woody%20Woodpecker%20Racing/SLUS-01188/SLUS-01188-1.mcd"
+        },
+        "saves/PSX/SLUS-01175.sav": {
+            "hash": "28b64e1277dd6a3ade8319464f63befb",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/World%20Destruction%20League%20Thunder%20Tanks/SLUS-01175/SLUS-01175-1.mcd"
+        },
+        "saves/PSX/SLUS-00929.sav": {
+            "hash": "8b1a2dbdc0ee74649fc998c451b966b0",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Wu-Tang%20Shaolin%20Style/SLUS-00929/SLUS-00929-1.mcd"
+        },
+        "saves/PSX/SLUS-00927.sav": {
+            "hash": "448cfdf171abb55005c1a376a13f73e1",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/WWF%20SmackDown%21/SLUS-00927/SLUS-00927-1.mcd"
+        },
+        "saves/PSX/SLUS-01234.sav": {
+            "hash": "aa1e3d01196a09488f8316c5ace55102",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/WWF%20SmackDown%21%202%20Know%20Your%20Role/SLUS-01234/SLUS-01234-4.mcd"
+        },
+        "saves/PSX/SLUS-00141.sav": {
+            "hash": "41e12fa2c91f7820f0122893b99f429f",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/X-COM%20UFO%20Defense/SLUS-00141/SLUS-00141-1.mcd"
+        },
+        "saves/PSX/SLUS-00774.sav": {
+            "hash": "cb5ae919db6b1b251cfd7f33d997810f",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/X-Men%20Mutant%20Academy/SLUS-00774/SLUS-00774-1.mcd"
+        },
+        "saves/PSX/SLUS-01382.sav": {
+            "hash": "7c9c26f66e7b0fffe9c0ceb8d3aa95f0",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/X-Men%20Mutant%20Academy%202/SLUS-01382/SLUS-01382-1.mcd"
+        },
+        "saves/PSX/SLUS-00627.sav": {
+            "hash": "fe58648c36a9e66c6eff5c660adf4491",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/X-Men%20vs.%20Street%20Fighter/SLUS-00627/SLUS-00627-1.mcd"
+        },
+        "saves/PSX/SLUS-00664.sav": {
+            "hash": "bd23a0c990927a2cb964dffb2ce09b8f",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Xenogears/SLUS-00664/SLUS-00664-7.mcd"
+        },
+        "saves/PSX/SLUS-01411.sav": {
+            "hash": "c450c35c0f4d76a384b095d3fa867fc0",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Yu-Gi-Oh%21%20Forbidden%20Memories/SLUS-01411/SLUS-01411-7.mcd"
+        },
+        "saves/PSX/SLPS-01980.sav": {
+            "hash": "3f180a20dee7942cb9af8ee50d6956f3",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Yuusha-Ou%20GaoGaiGar%20Blockaded%20Numbers%20(Japan)/SLPS-01980/SLPS-01980-1.mcd"
+        },
+        "saves/PSX/SLPS-01849.sav": {
+            "hash": "7d71b97caad791344ba23480d3a9d5b3",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Zen-Nippon%20Pro%20Wrestling%20Ouja%20no%20Tamashii%20(Japan)/SLPS-01849/SLPS-01849-1.mcd"
+        },
+        "saves/PSX/SLPS-00891.sav": {
+            "hash": "7531e8db9b204199f2421f906c7b2f50",
+            "overwrite": false,
+            "reboot": false,
+            "size": 131072,
+            "tags": [],
+            "url": "https://raw.githubusercontent.com/Pezz82/MemCard-Pro-Packs/main/Individual%20Games/Zero%20Divide%202%20The%20Secret%20Wish/SLPS-00891/SLPS-00891-1.mcd"
+        }
+    },
